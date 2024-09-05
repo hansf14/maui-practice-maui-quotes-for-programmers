@@ -13,7 +13,6 @@
   <div>
     &emsp;
     <img src="https://img.shields.io/badge/.NET MAUI-512BD4?style=flat&logo=maui&logoColor=white&logoWidth=25" height="25px"/>
-    <img src="https://img.shields.io/badge/CommunityToolkit.Maui-512BD4?style=flat&logo=maui&logoColor=white&logoWidth=25" height="25px"/>
   </div>
 </p>
 
