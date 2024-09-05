@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="maui_quotes_for_programmers.MainPage">
+
+  <Grid x:Name="gridBackground">
+    <Grid.Background>
+      <LinearGradientBrush
+        StartPoint="0,0"
+        EndPoint="1,1"
+      >
+        <GradientStopCollection>
+          <GradientStop Offset="0" Color="#051937"/>
+          <GradientStop Offset=".25" Color="#004d7a"/>
+          <GradientStop Offset="0.5" Color="#008793"/>
+          <GradientStop Offset="0.75" Color="#00bf72"/>
+          <GradientStop Offset="1" Color="#a8eb12"/>
+          <!--<GradientStop Offset="0" Color="DarkBlue"/>
+          <GradientStop Offset=".5" Color="DarkCyan"/>
+          <GradientStop Offset="1" Color="LightBlue"/>-->
+        </GradientStopCollection>
+      </LinearGradientBrush>
+    </Grid.Background>
+    <Grid
+      Margin="25"
+      RowDefinitions=".8*,.2*">
+      <Label
+        x:Name="labelQuote"
+        FontFamily="Bison"
+        FontSize="50"
+        HorizontalTextAlignment="Center"
+        Text="Measuring programming progress by lines of code is like measuring aircraft building progress by weight.– Bill Gates"
+        TextColor="White"
+        VerticalOptions="Center"
+      />
+      <Button
+        x:Name="buttonGenerateQuote"
+        Grid.Row="1"
+        BackgroundColor="Black"
+        Opacity=".4"
+        Text="Get New Quote"
+        Clicked="ButtonGenerateQuote_Clicked"
+      />
+    </Grid>
+  </Grid>
+
+</ContentPage>

@@ -1,0 +1,176 @@
+when you don’t create things, you become defined by your tastes rather than ability. your tastes only narrow & exclude people. so create. - Why The Lucky Stiff
+Java is to JavaScript what Car is to Carpet. - Chris Heilmann
+Lisp isn’t a language, it’s a building material. – Alan Kay
+Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it. – Brian W. Kernighan
+The best thing about a boolean is even if you are wrong, you are only off by a bit. – Anonymous
+The most important thing in the programming language is the name. A language will not succeed without a good name. I have recently invented a very good name and now I am looking for a suitable language. – Donald Knuth
+Programmers are in a race with the Universe to create bigger and better idiot-proof programs, while the Universe is trying to create bigger and better idiots.  So far the Universe is winning. – Rich Cook
+There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult. – C.A.R. Hoare
+Programs must be written for people to read, and only incidentally for machines to execute. ― Harold Abelson
+If debugging is the process of removing software bugs, then programming must be the process of putting them in. – Edsger Dijkstra 
+Walking on water and developing software from a specification are easy if both are frozen. - Edward V Berard
+Without requirements or design, programming is the art of adding bugs to an empty text file. – Louis Srygley
+It is practically impossible to teach good programming to students that have had a prior exposure to BASIC: as potential programmers, they are mentally mutilated beyond hope of regeneration. – Edsger Dijkstra
+Most of you are familiar with the virtues of a programmer.  There are three, of course: laziness, impatience, and hubris. – Larry Wall
+Measuring programming progress by lines of code is like measuring aircraft building progress by weight.– Bill Gates
+Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning. ― Rick Cook
+Rules of Optimization: Rule 1: Don’t do it. Rule 2 (for experts only): Don’t do it yet.  – Michael A. Jackson
+They don’t make bugs like Bunny anymore. - Olav Mjelde
+Ready, fire, aim: the fast approach to software development. Ready, aim, aim, aim, aim: the slow approach to software development. – Anonymous
+Everyday life is like programming, I guess. If you love something you can put beauty into it.  – Donald Knuth 
+The trouble with programmers is that you can never tell what a programmer is doing until it’s too late. – Seymour Cray
+Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it. – Brian W. Kernighan
+Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live ― John Woods
+Walking on water and developing software from a specification are easy if both are frozen.  – Edward V Berard
+A programming language is low level when its programs require attention to the irrelevant. - Alan J. Perlis
+It’s not a bug – it’s an undocumented feature. – Anonymous
+You might not think that programmers are artists, but programming is an extremely creative profession. It’s logic-based creativity. – John Romero
+Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter. – Eric Raymond
+C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows away your whole leg.– Bjarne Stroustrup
+The best programs are written so that computing machines can perform them quickly and so that human beings can understand them clearly. A programmer is ideally an essayist who works with traditional aesthetic and literary forms as well as mathematical concepts, to communicate the way that an algorithm works and to convince a reader that the results will be correct.  ― Donald Ervin Knuth 
+Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.  – Brian Kernighan
+A C program is like a fast dance on a newly waxed dance floor by people carrying razors. - Waldi Ravens
+A good programmer is someone who always looks both ways before crossing a one-way street. – Doug Linder
+If you think about computer programming, it’s as antisocial as it gets. – Shawn Fanning
+The best programmers are not marginally better than merely good ones.  They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability. – Randall E. Stross
+When debugging, novices insert corrective code; experts remove defective code. – Richard Pattis
+I’m not a great programmer; I’m just a good programmer with great habits. ― Kent Beck
+It’s not at all important to get it right the first time. It’s vitally important to get it right the last time.  – Andrew Hunt and David Thomas
+Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter. – Eric S. Raymond
+Deleted code is debugged code. – Jeff Sickel 
+Walking on water and developing software from a specification are easy if both are frozen. — Edward V Berard
+Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. – Martin Golding
+Low-level programming is good for the programmer’s soul. – John Carmack
+A great lathe operator commands several times the wage of an average lathe operator, but a great writer of software code is worth 10,000 times the price of an average software writer. – Bill Gates
+Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter. – Eric S. Raymond
+Give a man a program, frustrate him for a day. Teach a man to program, frustrate him for a lifetime. ― Waseem Latif
+First, solve the problem. Then, write the code.  – John Johnson
+Fine, Java MIGHT be a good example of what a programming language should be like. But Java applications are good examples of what applications SHOULDN’T be like. – pixadel
+Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.  – Stan Kelly-Bootle
+It always takes longer than you expect, even when you take into account Hofstadter’s Law.  — Hofstadter’s Law 
+Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.  – Rick Osborne
+Programming is like sex. One mistake and you have to support it for the rest of your life. – Michael Sinz
+Any fool can write code that a computer can understand. Good programmers write code that humans can understand.  – Martin Fowler
+Shifting toward management meant greater responsibility and influence, but it also meant giving up programming day-to-day in my role, which was hard because it took me out of my comfort zone.  – Marissa Mayer
+Software sucks because users demand it to.  – Nathan Myhrvold
+Measuring programming progress by lines of code is like measuring aircraft building progress by weight. – Bill Gates
+Linux is only free if your time has no value.  – Jamie Zawinski
+Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.– Linus Torvalds 
+Beware of bugs in the above code; I have only proved it correct, not tried it.  – Donald Knuth
+Everyone knows that debugging is twice as hard as writing a program in the first place. So if you’re as clever as you can be when you write it, how will you ever debug it? ― Brian W. Kernighan 
+There is not now, nor has there ever been, nor will there ever be, any programming language in which it is the least bit difficult to write bad code.  – Flon’s Law
+Considering the current sad state of our computer programs, software development is clearly still a black art, and cannot yet be called an engineering discipline. - Bill Clinton
+The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time.  – Tom Cargill
+Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. — Rick Osborne
+Good code is its own best documentation. As you’re about to add a comment, ask yourself, How can I improve the code so that this comment isn’t needed? Improve the code and then document it to make it even clearer.  – Steve McConnell
+Deleted code is debugged code. – Jeff Sickel
+Programs must be written for people to read, and only incidentally for machines to execute.  – Abelson
+Gates is the ultimate programming machine. He believes everything can be defined, examined, reduced to essentials, and rearranged into a logical sequence that will achieve a particular goal. – Stewart Alsop
+Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.  – Alan Kay
+Writing code has a place in the human hierarchy worth somewhere above grave robbing and beneath managing. – Gerald Weinberg 
+Programming can be fun, so can cryptography; however they should not be combined.  – Kreitzberg and Shneiderman
+A language that doesn’t affect the way you think about programming is not worth knowing. ― Alan J. Perlis
+Copy and paste is a design error.  – David Parnas
+The use of COBOL cripples the mind; its teaching should therefore be regarded as a criminal offense. - E.W. Dijkstra
+Before software can be reusable it first has to be usable.  – Ralph Johnson
+Without requirements or design, programming is the art of adding bugs to an empty text file.  – Louis Srygley
+Software undergoes beta testing shortly before it’s released. Beta is Latin for still doesn’t work. – Anonymous
+When someone says, I want a programming language in which I need only say what I want done, give him a lollipop.  – Alan Perlis
+Object-oriented programming is an exceptionally bad idea which could only have originated in California. – Edsger Dijkstra
+Computers are good at following instructions, but not at reading your mind. – Donald Knuth 
+First learn computer science and all the theory.  Next develop a programming style.  Then forget all that and just hack. – George Carrette
+Any code of your own that you haven’t looked at for six or more months might as well have been written by someone else.  – Eagleson’s law
+Good code is its own best documentation. As you’re about to add a comment, ask yourself, ‘How can I improve the code so that this comment isn’t needed?’ – Steve McConnell
+On two occasions, I have been asked [by members of Parliament], ‘Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?’ I am not able to rightly apprehend the kind of confusion of ideas that could provoke such a question. ― Charles Babbage
+Good design adds value faster than it adds cost. - Thomas C. Gale
+Some people, when confronted with a problem, think I know, I’ll use regular expressions. Now they have two problems.— Jamie Zawinski
+Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning. – Rick Cook 
+APL is a mistake, carried through to perfection. It is the language of the future for the programming techniques of the past: it creates a new generation of coding bums. – Edsger Dijkstra
+The best thing about a boolean is even if you are wrong, you are only off by a bit. – Anonymous
+The computer programmer is a creator of universes for which he alone is the lawgiver. No playwright, no stage director, no emperor, however powerful, has ever exercised such absolute authority to arrange a stage or field of battle and to command such unswervingly dutiful actors or troops.  ― Joseph Weizenbaum 
+Python’s a drop-in replacement for BASIC in the sense that Optimus Prime is a drop-in replacement for a truck. - Cory Dodt
+In theory, there is no difference between theory and practice. But, in practice, there is.— Jan L. A. van de Snepscheut
+Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning. – Rick Cook
+The secret of living a life of excellence is merely a matter of thinking thoughts of excellence. Really, it’s a matter of programming our minds with the kind of information that will set us free. – Charles R. Swindoll
+There are only two kinds of programming languages: those people always bitch about and those nobody uses. – Bjarne Stroustrup
+One of my most productive days was throwing away 1000 lines of code. – Ken Thompson
+Walking on water and developing software from a specification are easy if both are frozen.  ― Edward Berard
+Talk is cheap. Show me the code. - Linus Torvalds
+You can use an eraser on the drafting table or a sledgehammer on the construction site. – Frank Lloyd Wright
+Our ultimate goal is extensible programming (EP). By this, we mean the construction of hierarchies of modules, each module adding new functionality to the system. –  Niklaus Wirth  
+PHP is a minor evil perpetrated and created by incompetent amateurs, whereas Perl is a great and insidious evil perpetrated by skilled but perverted professionals. – Jon Ribbens
+Perl – The only language that looks the same before and after RSA encryption. ― Keith Bostic
+Programming is like kicking yourself in the face, sooner or later your nose will bleed. - Kyle Woodbury
+Measuring programming progress by lines of code is like measuring aircraft building progress by weight. — Bill Gates
+It’s a curious thing about our industry: not only do we not learn from our mistakes, we also don’t learn from our successes. – Keith Braithwaite
+I’ve been programming computers since elementary school, where they taught us, and I stuck with computer science through high school and college. – Masi Oka
+If builders built buildings the way programmers wrote programs, then the first woodpecker that came along wound destroy civilization. – Gerald Weinberg
+The most disastrous thing that you can ever learn is your first programming language.  ― Alan Kay
+There are 2 hard problems in computer science: cache invalidation, naming things, and off-by-1 errors. — Leon Bambrick 
+There are only two kinds of programming languages: those people always bitch about and those nobody uses. – Bjarne Stroustrup 
+We still have a tradition certainly in English television; it’s faded a bit in the last five years, but we still have a tradition where the important thing is the quality and the challenging nature of the programming. –  Rowan Atkinson
+I invented the term ‘Object-Oriented’, and I can tell you I did not have C++ in mind. - Alan Kay
+The most important property of a program is whether it accomplishes the intention of its user. ― C.A.R. Hoare
+Nine people can’t make a baby in a month. — Fred Brooks
+The cheapest, fastest, and most reliable components are those that aren’t there. – Gordon Bell
+I never really had the fun teens of exploring the world because I was sitting at home, learning programming. – Markus Persson
+Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry- Ted Nelson
+Object-oriented programming offers a sustainable way to write spaghetti code. It lets you accrete programs as a series of patches. ― Paul Graham
+Debuggers don’t remove bugs. They only show them in slow motion. — Unknown
+The trouble with programmers is that you can never tell what a programmer is doing until it’s too late. – Seymour Cray 
+Digitisation will rather consolidate the broadcasting industry in India because once the cable is digitized, then naturally all the programmers can showcase their programming. – Subhash Chandra
+The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability. - Randall E. Stross
+We are looking at a society increasingly dependent on machines, yet decreasingly capable of making or even using them effectively. ― Douglas Rushkoff
+The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time.— Tom Cargill
+Don’t worry if it doesn’t work right. If everything did, you’d be out of a job. – Mosher’s Law of Software Engineering 
+Marketing is the obverse of programming. – John McAfee
+At forty, I was too old to work as a programmer myself anymore; writing code is a young person’s job. ― Michael Crichton
+If Java had true garbage collection, most programs would delete themselves upon execution. — Robert Sewell
+Many people tend to look at programming styles and languages like religions: if you belong to one, you cannot belong to others. But this analogy is another fallacy. – Niklaus Wirth
+Beware of bugs in the above code; I have only proved it correct, not tried it. - Donald E. Knuth. 
+Programming went back to the beginning of time. It was a little like the midden out back of his father’s castle. ― Vernor Vinge
+On two occasions I have been asked, Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out? In one case a member of the Upper, and in the other a member of the Lower House put this question. I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question. — Charles Babbage
+Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program. – Linus Torvalds
+Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code. - Christopher Thompson
+Some of the best programming is done on paper, really. Putting it into the computer is just a minor detail. ― Max Kanat-Alexander
+It’s all talk until the code runs. — Ward Cunningham
+When I’m 18, I can finally order that paid programming stuff on TV. Like it always says, ‘Must be 18 or older to call,’ so I’ll be able to call! I can finally buy some blenders from the TV. – Austin Mahone
+Measuring programming progress by lines of code is like measuring aircraft building progress by weight. - Bill Gates
+Programmers are not to be measured by their ingenuity and their logic but by the completeness of their case analysis. ― Alan J. Perlis
+Commenting your code is like cleaning your bathroom – you never want to do it, but it really does create a more pleasant experience for you and your guests. — Ryan Campbell 
+Proprietary programming like news can be a great weapon. –  Alan Gerry
+I didn’t get trained by the school system like other kids, and when I did concentrate on learning, my mind was cluttered and locked by the programming of the system. – Huey Newton
+What is Oracle? A bunch of people. And all of our products were just ideas in the heads of those people – ideas that people typed into a computer, tested, and that turned out to be the best idea for a database or for a programming language. –  Larry Ellison
+Programming is one of the most difficult branches of applied mathematics; the poorer mathematicians had better remain pure mathematicians. –  Edsger Dijkstra
+Progress is possible only if we train ourselves to think about programs without thinking of them as pieces of executable code.  ― Edsger W. Dijkstra
+Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration. — Stan Kelly-Bootle
+The kind of programming that C provides will probably remain similar absolutely or slowly decline in usage, but relatively, JavaScript or its variants, or XML, will continue to become more central. – Dennis Ritchie
+I have been wildly enthused about gaming since I was younger, and a career path I chose not to go down but did really consider was getting into programming and game design. – Trent Reznor
+Is it possible that software is not like anything else, that it is meant to be discarded: that the whole point is to always see it as a soap bubble? ― Alan J. Perlis
+Being a good software engineer is 3% talent, 97% not being distracted by the internet.— Unknown 
+When The Muppet Show ended, we all sat around and said, what kind of television show would we like to do. We felt the need these days are for some quality children’s programming.  – Jim Henson
+What kind of programmer is so divorced from reality that she thinks she’ll get complex software right the first time? ― James Alan Gardner
+If you want to set off and go develop some grand new thing, you don’t need millions of dollars of capitalization. You need enough pizza and Diet Coke to stick in your refrigerator, a cheap PC to work on and the dedication to go through with it. — John Carmack
+Pretty much all the programming on our CDs is done by me personally, so I’ve kind of been able to have complete control of what sounds I’m looking for to complete a song. – Tyler Joseph
+The issue of finding the best possible answer or achieving maximum efficiency usually arises in industry only after serious performance or legal troubles. ― Steven S. Skiena
+All problems in computer science can be solved by another level of indirection… Except for the problem of too many layers of indirection. — David Wheeler
+We spend too much time fretting over the way the industry produces programming, and too little worrying about the way the public consumes it. – Michael Medved
+What’s in your hands I think and hope is intelligence: the ability to see the machine as more than when you were ﬁrst led up to it that you can make it more. ― Alan J. Perlis
+Testing can only prove the presence of bugs, not their absence. – Edsger W. Dijkstra
+Programming is not a zero-sum game. Teaching something to a fellow programmer doesn’t take it away from you. I’m happy to share what I can, because I’m in it for the love of programming. – John Carmack 
+Programming isn’t about what you know; i’s about what you can figure out. ― Chris Pine
+I don’t care if it works on your machine! We are not shipping your machine! – Vidiu Platon
+On the back end, software programming tools and Internet-based services make it easy to launch new global software-powered start-ups in many industries – without the need to invest in new infrastructure and train new employees. – Marc Andreessen
+Any nerd who grew up around the time that I did, BBC programming was a treasure chest for us. – Chris Hardwick
+Some programming languages manage to absorb change, but withstand progress. – Alan Perlis
+Whether you’re a programming prodigy or the office manager holding it all together, technology empowers small groups of passionate people with an astonishing degree of leverage to make the world a better place. – Justin Rosenstein
+Write a program in efficient way as you write for kernel scheduler ― Ahmad Moawad
+Good code is its own best documentation. As you’re about to add a comment, ask yourself, ‘How can I improve the code so that this comment isn’t needed?’ Improve the code and then document it to make it even clearer. – Steve McConnell
+We already have a professor who’s using an online social network of MIT alums to help educate students in programming. Just imagine expanding that in Facebook-fashion to tens or hundreds of millions of people around the world. – Anant Agarwal
+That doesn’t upset too many people, but the fact that accessibility restrictions don’t enter into the picture has caused more than one otherwise pacifistic soul to contemplate distinctly unpacifistic actions. ― Scott Meyers 
+A programmer is a device for turning caffeine into code.
+Ads featuring real women and real beauty are such a necessary component to offset the potentially dangerous programming out there for little girls. – Rashida Jones
+The happiest moment i felt; is that moment when i realized my ability to create. ― Dr. Hazem Ali
+Any fool can write code that a computer can understand. Good programmers write code that humans can understand. – Martin Fowler
+I loved logic, math, computer programming. I loved systems and logic approaches. And so I just figured architecture is this perfect combination. – Maya Lin
+Children’s programming in America, I think it’s pretty shoddy in terms of lack of diversity. It’s pretty much cartoons and Disney sort of shows. I don’t find any of that stimulating for children. –  Alex Kingston 
